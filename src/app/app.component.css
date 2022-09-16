@@ -1,0 +1,18 @@
+.container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+button {
+  color: red;
+}
+
+.form {
+  margin: 20px 0;
+  border: 1px solid grey;
+  border-radius: 15px;
+}
+
+span {
+  margin-right: 10px;
+}
